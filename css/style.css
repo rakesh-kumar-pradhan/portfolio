@@ -310,6 +310,7 @@ a:focus {
 .header {
     position: relative;
     background: #ffffff;
+    border-radius: 15px 15px 0px 0px;
 }
 
 .header .content-inner {
@@ -364,8 +365,10 @@ a:focus {
 }
 
 .large-btn .btn:last-child {
-    color: #222222;
-    background: #FF6F61;
+    color: #ffffff;
+    background: #1310eaf7;
+    /* color: #222222;
+    background: #FF6F61; */
 }
 
 .large-btn .btn i {
